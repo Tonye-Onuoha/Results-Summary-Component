@@ -1,12 +1,49 @@
-# React + Vite
+# Frontend Mentor - Results summary component solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the
+[Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-   [Overview](#overview)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is a React + Vite project in which the main objective is to build out a "Results Summary Component" web-page.
+
+### Screenshot
+
+![Screenshot](./results-summary.png)
+
+### Links
+
+-   Live Site URL: [Vercel]()
+
+## My process
+
+The process was very straightforward. I started by writing out the necessary components of the project. I then broke
+down the styling of components one piece at a time using CSS with the flexbox layout model, while also following the
+mobile-first approach. To complete the layout, I then proceeded to write the media queries for the desktop design.
+
+### Built with
+
+-   Semantic HTML5 JSX markup
+-   CSS custom properties
+-   Flexbox layout model
+-   Media queries
+
+### Useful resources
+
+-   [W3Schools](https://www.w3schools.com/)
+-   [MDN](https://developer.mozilla.org/)
+
+## Author
+
+-   Email Address - [tonyeonuoha@gmail.com](tonyeonuoha@gmail.com)
