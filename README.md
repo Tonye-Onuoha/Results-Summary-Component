@@ -24,7 +24,7 @@ This is a React + Vite project in which the main objective is to build out a "Re
 
 ### Links
 
--   Live Site URL: [Vercel]()
+-   Live Site URL: [Vercel](https://results-summary-component-eta-three.vercel.app/)
 
 ## My process
 
