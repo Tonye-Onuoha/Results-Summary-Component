@@ -1,49 +1,70 @@
-# Frontend Mentor - Results summary component solution
+# 🧮 Frontend Mentor - Results Summary Component Solution
 
 This is a solution to the
-[Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
-Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor Results Summary Component Challenge](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
+Frontend Mentor challenges help you improve your coding skills by building realistic projects. 💪
 
-## Table of contents
+---
 
--   [Overview](#overview)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [Useful resources](#useful-resources)
--   [Author](#author)
+## 🧭 Table of Contents
 
-## Overview
+-   [📋 Overview](#overview)
+    -   [🖼️ Screenshot](#screenshot)
+    -   [🔗 Links](#links)
+-   [⚙️ My Process](#my-process)
+    -   [🧱 Built With](#built-with)
+    -   [📚 Useful Resources](#useful-resources)
+-   [👤 Author](#author)
 
-This is a React + Vite project in which the main objective is to build out a "Results Summary Component" web-page.
+---
 
-### Screenshot
+## 📋 Overview
+
+This is a **React + Vite** project where the goal was to build a sleek and responsive
+**“Results Summary Component”** web page. 🚀
+
+### 🖼️ Screenshot
 
 ![Screenshot](./results-summary.png)
 
-### Links
+### 🔗 Links
 
--   Live Site URL: [Vercel](https://results-summary-component-eta-three.vercel.app/)
+-   🌐 **Live Site URL:** [View on Vercel](https://results-summary-component-eta-three.vercel.app/)
 
-## My process
+---
 
-The process was very straightforward. I started by writing out the necessary components of the project. I then broke
-down the styling of components one piece at a time using CSS with the flexbox layout model, while also following the
-mobile-first approach. To complete the layout, I then proceeded to write the media queries for the desktop design.
+## ⚙️ My Process
 
-### Built with
+The process was very straightforward:
 
--   Semantic HTML5 JSX markup
--   CSS custom properties
--   Flexbox layout model
--   Media queries
+1. 🧩 Started by structuring the project and creating the necessary React components.
+2. 🎨 Styled each component using **CSS** with the **Flexbox layout model**, following a **mobile-first** approach.
+3. 💻 Finished by adding **media queries** for the desktop design for better responsiveness.
 
-### Useful resources
+---
 
--   [W3Schools](https://www.w3schools.com/)
--   [MDN](https://developer.mozilla.org/)
+### 🧱 Built With
 
-## Author
+-   🧠 Semantic **HTML5 JSX** markup
+-   🎨 **CSS** custom properties
+-   🧭 **Flexbox** layout model
+-   📱 **Media queries** for responsiveness
 
--   Email Address - [tonyeonuoha@gmail.com](tonyeonuoha@gmail.com)
+---
+
+### 📚 Useful Resources
+
+-   📘 [W3Schools](https://www.w3schools.com/)
+-   🌐 [MDN Web Docs](https://developer.mozilla.org/)
+
+---
+
+## 👤 Author
+
+-   ✉️ **Email:** [tonyeonuoha@gmail.com](mailto:tonyeonuoha@gmail.com)
+-   💼 **Frontend Mentor:** [Your Profile Here](https://www.frontendmentor.io/profile/) _(optional)_
+-   🧑‍💻 **GitHub:** [Your GitHub Here](https://github.com/) _(optional)_
+
+---
+
+⭐ **If you liked this project, consider giving it a star on GitHub!**

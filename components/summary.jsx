@@ -38,7 +38,9 @@ export default function Summary() {
                     score={73}
                 />
             </div>
-            <button className="summary__button">Continue</button>
+            <button type="button" className="summary__button">
+                Continue
+            </button>
         </div>
     );
 }
